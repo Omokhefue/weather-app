@@ -1,2 +1,3 @@
 # weather-app
-Made with html css apis and js.
+A real time weather app that gets weather data depending on the inputted location.
+Implements APIs.
